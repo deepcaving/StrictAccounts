@@ -2,10 +2,10 @@
 
 module.exports = {
 	db: {
-		uri: 'mongodb://<dbuser>:<dbpassword>@ds041581.mongolab.com:41581/strictaccounts',
+		uri: 'mongodb://<user>:<pass>@ds041581.mongolab.com:41581/strictaccounts',
 		options: {
-			user: 'francescoSB',
-			pass: 'ReciotoGood2005'
+			user: 'deepcaving',
+			pass: 'francesco73sb'
 		}
 	},
 	log: {
